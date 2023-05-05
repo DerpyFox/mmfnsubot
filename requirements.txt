@@ -1,0 +1,2 @@
+docxtpl==0.16.6
+pyTelegramBotAPI==4.11.0
