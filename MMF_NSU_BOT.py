@@ -13,7 +13,7 @@ doc3 = DocxTemplate("resources/Zayavlenie_na_kray_srok.docx")
 doc4 = DocxTemplate("resources/Zayavlenie_na_propusk_po_uvag.docx")
 doc5 = DocxTemplate("resources/Obxodnoi_list.docx")
 
-bot = telebot.TeleBot('6221922439:AAF2t-UX_LaButE-5A4KN65N8mVLKqKlMJ0')
+bot = telebot.TeleBot('token')
 
 
 class Spravka:
